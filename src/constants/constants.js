@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'VR App for kids',
     description: "Using Unity I made a VR aplication for the Oculus Quest in order to help kids with their motor functions.",
-      image: '/images/1.png',
+      image: '/images/1.PNG',
       tags: ['VR', 'Unity', 'C#'],
     source: 'https://github.com/StiwardSolano/',
     visit: 'https://www.youtube.com/watch?v=djDRRz3Rcm4&t=28s',
